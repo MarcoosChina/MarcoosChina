@@ -18,7 +18,7 @@
 • Teste de Sistemas 60h/Cursando<br><br>
 <hr>
 <footer>
-  ![instagram](https://user-images.githubusercontent.com/94867160/170402471-bb4338b4-6cc4-47f6-afce-1083cc6914ed.png)
+  ![instagram](https://www.instagram.com/marcooschina_/")
 
   <a href=" https://www.instagram.com/marcooschina_/"><img src="instagram.png"></a>
   https://www.instagram.com/marcooschina_/
