@@ -5,7 +5,6 @@
 </span>
 <hr>
 
-✔ • Linkedln: https://www.linkedin.com/in/marcos-vinicius-a9b536217/<br>✔
 • Cursando Tecnico em Desenvolvimento de Sistemas no Senai, Sc <br>✔
 • Atividades : Cursando 3° Semestre<br>✔
 • Lógica de Programação 160h /Concluído<br>✔
