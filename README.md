@@ -1,4 +1,7 @@
 <hr>
+
+#Olá 📚🖥️
+
 • Linkedln: https://www.linkedin.com/in/marcos-vinicius-a9b536217/<br>
 • Cursando Tecnico em Desenvolvimento de Sistemas no Senai, Sc 📚🖥️<br>
 • Atividades : Cursando 3° Semestre<br>
@@ -14,4 +17,4 @@
 • Modelagem de Sistemas 80h/Cursando<br>
 • Teste de Sistemas 60h/Cursando<br><br>
 <hr>
-<div style='color:red'>oiiiiiiiiiiiiiiiiiii</div>
+
