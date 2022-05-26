@@ -13,5 +13,5 @@
 • Implantação de Sistemas 30h/Cursando<br>✔
 • Manutenção de Sistemas 30h/Cursando<br>✔
 • Modelagem de Sistemas 80h/Cursando<br>✔
-• Teste de Sistemas 60h/Cursando<br><br>✔
+• Teste de Sistemas 60h/Cursando<br><br>
 <hr>
