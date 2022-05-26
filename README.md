@@ -20,15 +20,10 @@
 • Modelagem de Sistemas 80h/Cursando<br>✔
 • Teste de Sistemas 60h/Cursando<br><br>
 <hr>
-
-<p align = "center">
-  <img src = "https://github-readme-stats.vercel.app/api?username=kakacordovil&show_icons=true&theme=tokyonight&line_height=27">
-  <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=kakacordovil&hide=css,html&theme=tokyonight">
-</p>
-
-
-<div align="center">
-<h2>Let's code!!!</h2>
-<img src="https://media.giphy.com/media/LmNwrBhejkK9EFP504/giphy.gif" width="400px" />
-</div>
-
+<p align="center">
+  <a href="https://www.instagram.com/error418.code/" alt="Instagram">
+  <img src="https://img.shields.io/badge/-Instagram-DF0174?style=for-the-badge&logo=instagram&logoColor=white&link=https://www.instagram.com/keidsondesigner/"/></a>
+  
+  <a href="https://www.linkedin.com/in/kakacordovil/" alt="Linkedin">
+  <img src="https://img.shields.io/badge/-Linkedin-0e76a8?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/keidsonroby/" /></a>
+</p>  
