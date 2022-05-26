@@ -19,10 +19,6 @@
 • Teste de Sistemas 60h/Cursando<br>
 <hr>
 
-<div class="container">
-  <p>Minhas redes sociais!</p>
-</div>
-
 <p align="center">
   <a href="https://www.instagram.com/marcooschina_/" alt="Instagram">
   <img src="https://img.shields.io/badge/-Instagram-DF0174?style=for-the-badge&logo=instagram&logoColor=white&link=https://www.instagram.com/keidsondesigner/"/></a>
