@@ -1,9 +1,11 @@
 <hr>
 
-<h1>Hello world!</h1>
+<h1>Hello world! 📚🖥️</h1>
 
-✔️ • Linkedln: https://www.linkedin.com/in/marcos-vinicius-a9b536217/<br>✔
-• Cursando Tecnico em Desenvolvimento de Sistemas no Senai, Sc 📚🖥️<br>✔
+<hr>
+
+✔ • Linkedln: https://www.linkedin.com/in/marcos-vinicius-a9b536217/<br>✔
+• Cursando Tecnico em Desenvolvimento de Sistemas no Senai, Sc <br>✔
 • Atividades : Cursando 3° Semestre<br>✔
 • Lógica de Programação 160h /Concluído<br>✔
 • Comunicação Oral Escrita 60h /Concluído<br>✔
