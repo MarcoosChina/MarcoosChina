@@ -17,3 +17,7 @@
 • Modelagem de Sistemas 80h/Cursando<br>✔
 • Teste de Sistemas 60h/Cursando<br><br>
 <hr>
+                <div class="txt_field">
+                    <input type="password" name="senha" required>
+                    <label>Senha</label>
+                </div>
