@@ -17,6 +17,6 @@
 • Modelagem de Sistemas 80h/Cursando<br>✔
 • Teste de Sistemas 60h/Cursando<br><br>
 <hr>
-<footer>
+<footer style='color:red'>
   https://www.instagram.com/marcooschina_/
   </footer>
