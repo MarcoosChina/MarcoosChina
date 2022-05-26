@@ -5,7 +5,7 @@
 </span>
 <hr>
 
-• Cursando Tecnico em Desenvolvimento de Sistemas no Senai, Sc <br>✔
+<h3> Cursando Tecnico em Desenvolvimento de Sistemas no Senai, Sc </h3><br>✔
 • Atividades : Cursando 3° Semestre<br>✔
 • Lógica de Programação 160h /Concluído<br>✔
 • Comunicação Oral Escrita 60h /Concluído<br>✔
