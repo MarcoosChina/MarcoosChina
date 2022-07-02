@@ -1,6 +1,6 @@
 <span align="center">
 
-## <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="15px"> Hello World! </h2>
+## <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="5px"> Hello World! </h2>
 
 </span>
 <hr>
