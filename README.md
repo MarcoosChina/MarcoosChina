@@ -4,7 +4,7 @@
 
 </span>
 <hr>
--- Matérias do curso - Técnico em Desenvolvimento de sistemas | SENAI-SC --
+-- Aprendizados do curso de Técnico em Desenvolvimento de sistemas | SENAI-SC --
 <hr>
 ✔ • Cursando Tecnico em Desenvolvimento de Sistemas no Senai, Sc <br>✔
 • Atividades : Cursando 3° Semestre<br>✔
