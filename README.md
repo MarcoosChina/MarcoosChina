@@ -4,6 +4,9 @@
 
 </span>
 <hr>
+-- Matérias do curso - Técnico em Desenvolvimento de sistemas | SENAI-SC --
+<hr>
+<hr>
 ✔ • Cursando Tecnico em Desenvolvimento de Sistemas no Senai, Sc <br>✔
 • Atividades : Cursando 3° Semestre<br>✔
 • Lógica de Programação 160h /Concluído<br>✔
