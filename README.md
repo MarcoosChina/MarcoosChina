@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=4F8EF7&center=true&vCenter=true&width=600&lines=Ol%C3%A1%2C+eu+sou+o+Marcos+Vinicius!+%F0%9F%91%8B;Desenvolvedor+em+Forma%C3%A7%C3%A3o;Apaixonado+por+Tecnologia" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=4F8EF7&center=true&vCenter=true&width=600&lines=Ol%C3%A1%2C+eu+sou+o+Marcos+Vinicius!+%F0%9F%91%8B;Estudante+de+ADS+na+Uniasselvi;Apaixonado+por+Tecnologia" alt="Typing SVG" />
 
 </div>
 
@@ -8,27 +8,19 @@
 
 ## 👨‍💻 Sobre mim
 
-Sou o **Marcos Vinicius Baumgartner**, 24 anos, de Blumenau - SC. Atualmente cursando **Técnico em Desenvolvimento de Sistemas** no SENAI-SC, onde estou aprendendo desde a lógica de programação até o desenvolvimento e implantação de sistemas completos.
+Sou o **Marcos Vinicius Baumgartner**, 24 anos, de Blumenau - SC. Técnico em Desenvolvimento de Sistemas formado pelo **SENAI-SC** e atualmente cursando **Análise e Desenvolvimento de Sistemas** na **Uniasselvi**.
 
 Gosto de transformar ideias em código e estou sempre buscando aprender mais sobre o mundo da tecnologia.
 
 ---
 
-## 🎓 Formação Técnica — SENAI-SC
+## 🎓 Formação
 
-| Disciplina | Carga Horária | Status |
-|---|---|---|
-| Lógica de Programação | 160h | ✅ Concluído |
-| Comunicação Oral e Escrita | 60h | ✅ Concluído |
-| Fundamentos da Tecnologia da Informação | 40h | ✅ Concluído |
-| Informática Aplicada | 80h | ✅ Concluído |
-| Banco de Dados (MySQL) | 140h | ✅ Concluído |
-| Programação de Aplicativos (POO com Python) | 160h | ✅ Concluído |
-| Desenvolvimento de Sistemas | 160h | 🔄 Cursando |
-| Implantação de Sistemas | 30h | 🔄 Cursando |
-| Manutenção de Sistemas | 30h | 🔄 Cursando |
-| Modelagem de Sistemas | 80h | 🔄 Cursando |
-| Teste de Sistemas | 60h | 🔄 Cursando |
+### 🏫 Superior — Uniasselvi
+**Análise e Desenvolvimento de Sistemas** — 🔄 Cursando
+
+### 🏫 Técnico — SENAI-SC
+**Técnico em Desenvolvimento de Sistemas** — ✅ Concluído
 
 ---
 
