@@ -10,6 +10,8 @@
 
 Sou o **Marcos Vinicius Baumgartner**, 24 anos, de Blumenau - SC. Técnico em Desenvolvimento de Sistemas formado pelo **SENAI-SC** e atualmente cursando **Análise e Desenvolvimento de Sistemas** na **Uniasselvi**.
 
+Meu objetivo é evoluir na área de desenvolvimento web, criando soluções digitais inovadoras, como landing pages responsivas, projetos inovadores, sites robustos e soluções digitais de alta qualidade, utilizando boas práticas de engenharia de software e o potencial da inteligência artificial para desenvolver projetos eficientes e modernos.
+
 Gosto de transformar ideias em código e estou sempre buscando aprender mais sobre o mundo da tecnologia.
 
 ---
