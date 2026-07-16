@@ -1,8 +1,6 @@
-<div align="center">
-
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=4F8EF7&center=true&vCenter=true&width=700&lines=Olá,+eu+sou+o+Marcos+Vinicius!+👋;Desenvolvedor+em+Formação;Estudante+de+ADS+na+Uniasselvi;Apaixonado+por+Tecnologia+e+IA" alt="Typing SVG" />
-
-</div>
+<p align="center">
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=3500&pause=1200&color=4F8EF7&center=true&vCenter=true&width=650&lines=Marcos+Vinicius+Baumgartner;Full+Stack+Developer;Python+%7C+Node.js+%7C+Angular;Always+Learning" />
+</p>
 
 ---
 
@@ -10,15 +8,17 @@
 
 Sou o **Marcos Vinicius Baumgartner**, 24 anos, de **Blumenau - SC**.
 
-🎓 Técnico em Desenvolvimento de Sistemas pelo **SENAI-SC**.
+ Técnico em Desenvolvimento de Sistemas pelo **SENAI-SC**.
 
-📚 Atualmente curso **Análise e Desenvolvimento de Sistemas** na **Uniasselvi**.
+🎓 • Atualmente estou cursando **Análise e Desenvolvimento de Sistemas** na **Uniasselvi**. Também participo de um programa de capacitação da **SCTEC** com foco em desenvolvimento Full Stack.
 
-🚀 Também participo de um programa de capacitação promovido pela **SCTI/SCTEC**, aprofundando meus conhecimentos em **Angular** e desenvolvimento moderno de aplicações web.
+💻 • Tenho experiência com **Python, JavaScript, Node.js, Angular, SQL** e automação de processos.
 
-Tenho experiência com desenvolvimento Back-end e Front-end utilizando **Python**, **JavaScript**, **Node.js**, **Angular**, bancos de dados relacionais e automação de processos.
+🚀 • Busco evoluir continuamente como desenvolvedor, criando soluções escaláveis e aplicando boas práticas de engenharia de software.
 
-Sou apaixonado por tecnologia, inteligência artificial e aprendizado contínuo. Estou sempre buscando desenvolver projetos que gerem impacto e me permitam evoluir como desenvolvedor.
+🛒 • Atualmente estou focado no desenvolvimento de **landing pages** e **e-commerces** modernos, responsivos e funcionais, priorizando desempenho, usabilidade e uma excelente experiência para o usuário.
+
+🧠 • Sou apaixonado por tecnologia, inteligência artificial e aprendizado contínuo. Estou sempre buscando desenvolver projetos que gerem impacto e me permitam evoluir como desenvolvedor.
 
 ---
 
@@ -27,6 +27,10 @@ Sou apaixonado por tecnologia, inteligência artificial e aprendizado contínuo.
 ### 🏫 Uniasselvi
 
 🎓 Tecnologia em Análise e Desenvolvimento de Sistemas *(Cursando)*
+
+### 🏫 SENAI-SC
+
+🎓 Carreira Tech - Trilha Desenvolvimento de Software  *(Cursando)*
 
 ### 🏫 SENAI-SC
 
