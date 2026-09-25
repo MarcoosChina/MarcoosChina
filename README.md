@@ -8,9 +8,9 @@
 
 Sou o **Marcos Vinicius Baumgartner**, 24 anos, de **Blumenau - SC**.
 
- Técnico em Desenvolvimento de Sistemas pelo **SENAI-SC**.
+🎓 • Técnico em Desenvolvimento de Sistemas pelo **SENAI-SC**.
 
-🎓 • Atualmente estou cursando **Análise e Desenvolvimento de Sistemas** na **Uniasselvi**. Também participo de um programa de capacitação da **SCTEC** com foco em desenvolvimento Full Stack.
+🎓 • Atualmente estou cursando **Análise e Desenvolvimento de Sistemas** na **Uniasselvi**. Também participo de um programa de capacitação da **SCTEC**, com foco em desenvolvimento Full Stack.
 
 💻 • Tenho experiência com **Python, JavaScript, Node.js, Angular, SQL** e automação de processos.
 
@@ -30,7 +30,7 @@ Sou o **Marcos Vinicius Baumgartner**, 24 anos, de **Blumenau - SC**.
 
 ### 🏫 SENAI-SC
 
-🎓 Carreira Tech - Trilha Desenvolvimento de Software  *(Cursando)*
+🎓 Carreira Tech - Trilha Desenvolvimento de Software *(Cursando)*
 
 ### 🏫 SENAI-SC
 
@@ -40,12 +40,24 @@ Sou o **Marcos Vinicius Baumgartner**, 24 anos, de **Blumenau - SC**.
 
 # 🚀 Atualmente estudando
 
-- Angular
-- TypeScript
-- Node.js
-- APIs REST
-- Arquitetura de Software
-- Boas práticas de desenvolvimento
+* Angular
+* TypeScript
+* Node.js
+* APIs REST
+* Arquitetura de Software
+* Boas práticas de desenvolvimento
+
+---
+
+# 📚 Formação Front-End Angular
+
+Atualmente participo da formação **Desenvolvedor Front-End Angular T1**, realizando atividades práticas e projetos ao longo das semanas de capacitação.
+
+🏢 **SCTEC - Desenvolvedor Front-End Angular T1**
+
+🔗 [Acessar organização e atividades](https://github.com/SCTEC-Desenvolvedor-FrontEnd-Angular-T1)
+
+> A organização reúne os projetos e atividades desenvolvidos durante a formação, permitindo acompanhar minha evolução prática ao longo do curso.
 
 ---
 
@@ -53,78 +65,7 @@ Sou o **Marcos Vinicius Baumgartner**, 24 anos, de **Blumenau - SC**.
 
 <div align="center">
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
-![Angular](https://img.shields.io/badge/Angular-DD0031?style=flat-square&logo=angular&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
-![Oracle](https://img.shields.io/badge/Oracle-F80000?style=flat-square&logo=oracle&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white)
-
-</div>
----
-
-# 🚀 Projetos em Destaque
-
-### 🎮 Space Game 2D com Login
-
-Sistema completo desenvolvido em equipe utilizando **Python**, **Pygame** e **MySQL**, contendo autenticação de usuários, ranking e persistência de dados.
-
-🔗 https://github.com/MarcoosChina/Space-Game-2D-Com-Login
-
----
-
-### 🤖 Automação com Python
-
-Script desenvolvido utilizando **PyAutoGUI** para automatizar tarefas repetitivas de preenchimento de dados.
-
-🔗 https://github.com/MarcoosChina/PythonPyautogui
-
----
-
-### 🌐 Desenvolvimento Web
-
-Projetos desenvolvidos durante os estudos de HTML, CSS e JavaScript.
-
-🔗 https://github.com/MarcoosChina/desenvolvimento_web
-
----
-
-# 📊 Estatísticas
-
-<div align="center">
-
-<img height="170em" src="https://github-readme-stats.vercel.app/api?username=MarcoosChina&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-
-<img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MarcoosChina&layout=compact&theme=tokyonight"/>
-
-<img height="170em" src="https://streak-stats.demolab.com?user=MarcoosChina&theme=tokyonight"/>
-
-</div>
-
----
-
-# 🌎 Conecte-se comigo
-
-<div align="center">
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/marcos-vinicius-baumgartner)
-
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/marcooschina_/)
-
-![](https://komarev.com/ghpvc/?username=MarcoosChina&style=for-the-badge)
-
-</div>
-
----
-
-<div align="center">
-
-> 💡 *"Transformando ideias em código e aprendizado em soluções."*
-
-</div>
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square\&logo=python\&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square\&logo=javascript\&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square\&logo=typescript\&logoColor=white)
+![Node.js](https://img.shields.)
